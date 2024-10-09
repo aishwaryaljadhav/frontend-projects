@@ -5,3 +5,4 @@ The goal of building this clone was to understand and implement core web develop
 It serves as a practice ground for exploring HTML, CSS, and JavaScript
 Debugging and integrating multiple elements proved to be challenging but rewarding. 
 This project lays the foundation for more advanced e-commerce solutions as I continue to learn and improve my skills.
+You can check the webisite here: https://rawcdn.githack.com/aishwaryaljadhav/frontend-projects/9e3eea63fcc304fbb31b39f1477659196f034fad/amazon%20clone%20CSS%20HTML/index.html
